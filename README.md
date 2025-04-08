@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-
+https://yandex.cloud/ru/docs/compute/concepts/performance-levels
 
 ## Задание 2
 
