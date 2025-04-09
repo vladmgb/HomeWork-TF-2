@@ -48,6 +48,16 @@
 
 ## Задание 4
 
+Собрал данные в map:
+
+![8](https://github.com/user-attachments/assets/a1c669d1-01cb-4750-8dc1-3bff71a10648)
+
+Применил изменения.
+
+`terraform output`
+
+![9](https://github.com/user-attachments/assets/dcbd0d32-e52c-4c0f-8e02-bc5b25ace630)
+
 
 ## Задание 5
 
