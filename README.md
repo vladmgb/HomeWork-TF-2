@@ -24,7 +24,10 @@
 
 
 ## Задание 2
+Объявил переменные в variables.tf. Внес изменения в main.tf.
+Выполнил `terraform plan` - изменений нет.
 
+![4](https://github.com/user-attachments/assets/504c7c18-5de1-411d-afcc-d0ac86956401)
 
 ## Задание 3
 
