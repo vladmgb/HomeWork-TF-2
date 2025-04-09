@@ -2,15 +2,26 @@
 
 ## Задание 1
 
-https://yandex.cloud/ru/docs/compute/concepts/performance-levels
+Инициализировал проект, исправил ошибки, выполнил код.
++ Ошибки в строке: platform_id = "standart-v4". Во-первых, правильно будет standard, во-вторых, v4 не существует. ([ссылка](https://cloud.yandex.ru/docs/compute/concepts/vm-platforms)).
++ ВМ с одним ядром нельзя создать, минимуим надо 2. ([ссылка](https://cloud.yandex.ru/docs/compute/concepts/performance-levels))
 
-![1](https://github.com/user-attachments/assets/7354b509-9fb0-4570-b6ae-74684e55c246
+Скриншот после выполнения terraform apply:
 
+![1](https://github.com/user-attachments/assets/7354b509-9fb0-4570-b6ae-74684e55c246)
+
+скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес:
 
 ![2](https://github.com/user-attachments/assets/5f4237bd-ade5-4c53-88af-d9ba2f9ed91f)
 
+Скриншот консоли, curl должен отобразить тот же внешний ip-адрес:
 
 ![3](https://github.com/user-attachments/assets/06b98541-e0a9-478f-8b51-aa2b328d4e3b)
+
+Ответы на вопросы:
++ Параметр `preemptible = true` следует указывать, если нужно сделать прерываемую ВМ. Это ВМ, которые могут быть принудительно остановлены в любой момент. Это происходит, если с момента запуска прошло 24 часа или произошла нехватка ресурсов. ВМ такого типа стоят дешевле.
++ Параметр `core_fraction=5` задает уровень производительности vCPU в процентах. Чем меньше уровень, тем дешевле.
+
 
 ## Задание 2
 
