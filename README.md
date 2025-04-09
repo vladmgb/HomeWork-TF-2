@@ -31,6 +31,20 @@
 
 ## Задание 3
 
+Внес изменения 
+
+![7](https://github.com/user-attachments/assets/f025746e-63a5-4b80-b2f9-ec8bd3e45734)
+
+
+Применил изменения.
+
+![5](https://github.com/user-attachments/assets/b27490e8-4b10-485c-ac61-0ae944e41036)
+
+
+Еще одна ВМ создана в другой зоне.
+![6](https://github.com/user-attachments/assets/6d214d27-7356-4bb7-b533-69a5f7f2066e)
+
+
 
 ## Задание 4
 
