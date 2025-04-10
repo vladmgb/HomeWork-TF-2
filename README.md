@@ -72,5 +72,14 @@
 
 ## Задание 6
 
+Выполнено. Завел переменные, заменил их в main.tf
+
+![12](https://github.com/user-attachments/assets/463a39d4-b647-4739-9131-8532086e2120)
+
+Лишние переменные закомментировал.
+Изменений нет.
 
 ## Задание 7
+
+![13](https://github.com/user-attachments/assets/7dbbbf50-d290-4d45-87dc-12c1fb85b7ed)
+
