@@ -61,6 +61,14 @@
 
 ## Задание 5
 
+Описал имена ВМ с помощью интерполяции.
+
+![10](https://github.com/user-attachments/assets/04eff259-2cb9-4a76-a6e6-8f83c8395b93)
+
+Заменил в main.tf и применил изменения.
+
+![11](https://github.com/user-attachments/assets/4d848bf8-a1b6-464b-8c55-c50dc8909e83)
+
 
 ## Задание 6
 
